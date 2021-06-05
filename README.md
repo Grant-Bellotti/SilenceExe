@@ -12,8 +12,10 @@ E - Interact with objects
 
 SHIFT - Run                  
 
-C - crouch                  
+C - Crouch                  
 
 TAB - Map (when collected)    
 
 J - Journal (when collected)
+
+ESC - Pause/Volume/Controls
